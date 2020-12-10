@@ -1,2 +1,2 @@
 # Maa-Enterprises
- Static Website
+ Wholesale Store Website
