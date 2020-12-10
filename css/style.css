@@ -228,9 +228,13 @@ button:focus{
 /*------------------------------------------------------------------
     Slider
 -------------------------------------------------------------------*/
-
-.cover-slides{
-	height: 100vh;
+.cover-slides { 
+	height:100vh;
+}
+@media (max-width:600px){
+	.cover-slides{
+		height:50vh;
+	}
 }
 .slides-navigation a {
 	background: #d65106;
